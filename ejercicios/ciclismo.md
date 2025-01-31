@@ -9,3 +9,13 @@ El ciclismo es un deporte que consiste en montar bicicleta para recorrer circuit
 - El ciclismo te ahorra dinero.
 - El ciclismo reduce el riesgo de desarrollar enfermedades crónicas como diabetes y enfermedades cardíacas. 
 - El ciclismo es bueno para los negocios.
+
+# Instrucciones del ciclismo
+1. Respetar los semáforos y los pasos de peatones
+2. Ceder el paso a los peatones
+3. Usar casco protector
+4. Utilizar las señales manuales para indicar los cambios de carril y de sentido
+5. Cumplir las normas de tránsito, señales y límites de velocidad
+6. No adelantar por la derecha o entre vehículos
+7. Usar la calzada a la izquierda
+
