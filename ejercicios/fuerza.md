@@ -1,9 +1,9 @@
 # Ejercicio fuerza
 
-# Descripcion
+## Descripcion
 Los ejercicios de fuerza son entrenamientos que se realizan para fortalecer los músculos y aumentar la resistencia del cuerpo.
 
-# Beneficios
+## Beneficios
 - Aumenta la masa muscular
 - Mejora la postura
 - Aumenta la fuerza
