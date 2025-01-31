@@ -16,3 +16,10 @@ Los ejercicios de fuerza son entrenamientos que se realizan para fortalecer los 
 3. Descansar 1 minuto entre series.
 4. Realizar ejercicios que involucren todos los grupos musculares.
 
+## Consejos
+- Calentar antes de comenzar la rutina.
+- Mantener una buena postura durante los ejercicios.
+- Estirar después de terminar la rutina.
+- Hidratarse durante el entrenamiento.
+- Escuchar al cuerpo y descansar si es necesario.
+
