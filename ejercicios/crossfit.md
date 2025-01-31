@@ -13,3 +13,7 @@ El crossfit es un deporte que combina diferentes disciplinas deportivas como el 
 - Mejora la agilidad
 - Aumenta la precisión
 
+# Instrucciones 
+1. Realizar el calentamiento
+2. Realizar el WOD (Workout of the day)
+3. Estirar al finalizar el WOD
