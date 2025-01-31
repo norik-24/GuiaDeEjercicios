@@ -21,3 +21,9 @@ El boxeo es un deporte de combate en el que dos personas se golpean con los puñ
 9. El combate termina cuando un boxeador está KO o después de 12 asaltos. 
 10. El boxeador que gana puede hacerlo por KO o por obtener más puntos. 
 11. Los boxeadores que no cumplan con las reglas pueden ser descalificados. 
+
+## Consejos
+- Mantener una buena posición
+- Respirar de forma constante
+- Protegerse adecuadamente
+- Comer saludablemente
