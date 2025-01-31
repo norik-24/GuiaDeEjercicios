@@ -3,14 +3,14 @@
 ## Descripcion
 El ciclismo es un deporte que consiste en montar bicicleta para recorrer circuitos, ya sea al aire libre o en pista cubierta. 
 
-# Beneficios
+## Beneficios
 - Las y los ciclistas viven más tiempo. 
 - El ciclismo reduce la contaminación y el calentamiento global. 
 - El ciclismo te ahorra dinero.
 - El ciclismo reduce el riesgo de desarrollar enfermedades crónicas como diabetes y enfermedades cardíacas. 
 - El ciclismo es bueno para los negocios.
 
-# Instrucciones del ciclismo
+## Instrucciones del ciclismo
 1. Respetar los semáforos y los pasos de peatones
 2. Ceder el paso a los peatones
 3. Usar casco protector
@@ -19,7 +19,7 @@ El ciclismo es un deporte que consiste en montar bicicleta para recorrer circuit
 6. No adelantar por la derecha o entre vehículos
 7. Usar la calzada a la izquierda
 
-# Consejos
+## Consejos
 - Hacer un calentamiento previo
 - Mantener una postura correcta
 - Hidratarse
