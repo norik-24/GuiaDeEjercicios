@@ -18,3 +18,10 @@ El pilates es un sistema de entrenamiento físico y mental creado a principios d
 2. Inhala y eleva la pelvis hacia arriba, despegando la espalda del suelo.
 3. Exhala y baja la espalda al suelo.
 4. Repite el ejercicio 10 veces
+
+## Consejos
+- Mantén la espalda recta
+- No arquees la espalda
+- No levantes la pelvis demasiado alto
+- No dejes de respirar
+
