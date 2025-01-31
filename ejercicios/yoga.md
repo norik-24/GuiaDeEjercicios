@@ -22,3 +22,9 @@ El yoga es una disciplina que trabaja el cuerpo y la mente. Se trata de una prá
 5. Respira profundamente y mantén la concentración
 6. Escucha tu cuerpo y no fuerces las posturas
 
+## Consejos
+- Practica regularmente
+- Escoge una rutina adecuada a tu nivel
+- No te compares con otros
+- Escucha a tu cuerpo
+- Disfruta 
