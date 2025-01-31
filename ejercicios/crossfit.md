@@ -1,9 +1,9 @@
 # Ejercicio Crossfit
 
-# Descripcion
+## Descripcion
 El crossfit es un deporte que combina diferentes disciplinas deportivas como el levantamiento de pesas, el atletismo y la gimnasia. ç
 
-# Beneficios
+## Beneficios
 - Mejora la resistencia
 - Aumenta la fuerza
 - Ayuda a quemar grasa
@@ -13,12 +13,12 @@ El crossfit es un deporte que combina diferentes disciplinas deportivas como el 
 - Mejora la agilidad
 - Aumenta la precisión
 
-# Instrucciones 
+## Instrucciones 
 1. Realizar el calentamiento
 2. Realizar el WOD (Workout of the day)
 3. Estirar al finalizar el WOD
 
-# Consejos
+## Consejos
 - Márcate retos y ve superándote día a día. No compitas con los demás, sino contigo mismo.
 - Sé realista. 
 - Pregunta todas las dudas que tengas. 
