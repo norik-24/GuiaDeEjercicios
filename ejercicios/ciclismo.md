@@ -19,3 +19,8 @@ El ciclismo es un deporte que consiste en montar bicicleta para recorrer circuit
 6. No adelantar por la derecha o entre vehículos
 7. Usar la calzada a la izquierda
 
+# Consejos
+- Hacer un calentamiento previo
+- Mantener una postura correcta
+- Hidratarse
+- UsarUsa equipo de protección
