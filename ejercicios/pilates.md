@@ -5,11 +5,16 @@ El pilates es un sistema de entrenamiento físico y mental creado a principios d
 
 ## Beneficios
 
-1. Aumenta la fuerza muscular
-2. Mejora la flexibilidad
-3. Mejora la postura
-4. Aumenta la conciencia corporal
-5. Disminuye el estrés
-6. Aumenta la energía
-7. Mejora la coordinación
+- Aumenta la fuerza muscular
+- Mejora la flexibilidad
+- Mejora la postura
+- Aumenta la conciencia corporal
+- Disminuye el estrés
+- Aumenta la energía
+- Mejora la coordinación
 
+## Instrucciones
+1. Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo, con los brazos a los lados del cuerpo.
+2. Inhala y eleva la pelvis hacia arriba, despegando la espalda del suelo.
+3. Exhala y baja la espalda al suelo.
+4. Repite el ejercicio 10 veces
