@@ -19,4 +19,11 @@ No fuerces el estiramiento.
 Respira profundamente y relájate. 
 Escucha a tu cuerpo. 
 
-
+# Consejos
+Calienta antes de estirar. 
+Estira después de realizar actividad física. 
+Estira los músculos principales: piernas, espalda, cuello, hombros y brazos. 
+No estires músculos fríos. 
+No estires músculos lesionados. 
+No estires en exceso. 
+No estires en seco. 
